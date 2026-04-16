@@ -1,7 +1,7 @@
-pyrogram==2.0.106
-tgcrypto==1.2.5
-pymediainfo==7.0.1
-pyaes==1.6.1
-aiohttp==3.9.5
-requests==2.31.0
-asyncio
+pyrofork==2.2.11
+tgcrypto
+pymediainfo
+pyaes
+aiohttp
+requests
+yt-dlp==2023.10.07
